@@ -10,15 +10,15 @@
 This repository contains a comprehensive collection of Data Communication & Networking (DCN) Lab Experiments completed as part of the B.Tech Computer Science & Engineering (CSE) curriculum at UPES, Dehradun. 
 
 It spans core networking theories, routing protocols, hands-on Cisco Packet Tracer simulations, packet-level Wireshark analysis, and programmatic C/C++ implementations of error detection and correction algorithms.
-
+---
 ## Author Profile
-
 | Detail | Description |
+| :--- | :--- |
 | **Name** | Prabhjeet Singh |
 | **Programme** | B.Tech Computer Science & Engineering (CSE) |
 | **Semester** | 4th Semester |
 | **Institution** | University of Petroleum and Energy Studies (UPES), Dehradun |
-
+---
 ## Repository Contents
 
 The experiments and implementations are categorized into five core modules:
