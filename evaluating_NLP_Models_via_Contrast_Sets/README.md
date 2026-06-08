@@ -34,7 +34,7 @@ This repository contains evaluations across 10 benchmark NLP datasets, plus a cu
 
 ## The Demo: How Easily Models Get Fooled!!
 
-To show contrast sets in action, I built a self-contained demonstration under `/contrast_set_demo`.
+To show contrast sets in action, I built a self-contained demonstration under-[contrast_set_demo/](./contrast_set_demo/).
 
 We train a Logistic Regression classifier on movie reviews using standard bigram TF-IDF features. It seems decent at first, but gets completely wrecked by the contrast set.
 
