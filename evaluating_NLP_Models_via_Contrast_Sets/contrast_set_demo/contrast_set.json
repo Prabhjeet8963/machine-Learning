@@ -1,0 +1,122 @@
+[
+    {
+        "original": "The movie was fantastic and I loved it.",
+        "original_label": "positive",
+        "contrast": "The movie was fantastic but I didn't love it.",
+        "contrast_label": "negative"
+    },
+    {
+        "original": "A terrible waste of time.",
+        "original_label": "negative",
+        "contrast": "Not a terrible waste of time.",
+        "contrast_label": "positive"
+    },
+    {
+        "original": "The acting was great.",
+        "original_label": "positive",
+        "contrast": "The acting was great, but the script was awful.",
+        "contrast_label": "negative"
+    },
+    {
+        "original": "I would not recommend this movie.",
+        "original_label": "negative",
+        "contrast": "I would not recommend this movie to kids, but adults will love it.",
+        "contrast_label": "positive"
+    },
+    {
+        "original": "It is a masterpiece.",
+        "original_label": "positive",
+        "contrast": "It is far from a masterpiece.",
+        "contrast_label": "negative"
+    },
+    {
+        "original": "I really enjoyed the film.",
+        "original_label": "positive",
+        "contrast": "I really enjoyed the film until the ending ruined it.",
+        "contrast_label": "negative"
+    },
+    {
+        "original": "This is the best movie ever.",
+        "original_label": "positive",
+        "contrast": "This is definitely not the best movie ever.",
+        "contrast_label": "negative"
+    },
+    {
+        "original": "The plot was boring.",
+        "original_label": "negative",
+        "contrast": "The plot was boring but the visuals were stunning.",
+        "contrast_label": "positive"
+    },
+    {
+        "original": "The characters were shallow.",
+        "original_label": "negative",
+        "contrast": "The characters were shallow, yet the story was compelling.",
+        "contrast_label": "positive"
+    },
+    {
+        "original": "I was bored throughout the entire movie.",
+        "original_label": "negative",
+        "contrast": "I was bored throughout the entire movie, except for the amazing climax.",
+        "contrast_label": "positive"
+    },
+    {
+        "original": "The special effects were cheap.",
+        "original_label": "negative",
+        "contrast": "The special effects were cheap, but the acting made up for it.",
+        "contrast_label": "positive"
+    },
+    {
+        "original": "A truly heartwarming story.",
+        "original_label": "positive",
+        "contrast": "A truly heartwarming story, if you ignore the cynical ending.",
+        "contrast_label": "negative"
+    },
+    {
+        "original": "The director did a great job.",
+        "original_label": "positive",
+        "contrast": "The director did a great job ruining the franchise.",
+        "contrast_label": "negative"
+    },
+    {
+        "original": "I couldn't stop laughing.",
+        "original_label": "positive",
+        "contrast": "I couldn't stop laughing at how bad it was.",
+        "contrast_label": "negative"
+    },
+    {
+        "original": "The music was beautiful.",
+        "original_label": "positive",
+        "contrast": "The music was beautiful, but it didn't fit the scene at all.",
+        "contrast_label": "negative"
+    },
+    {
+        "original": "I was pleasantly surprised.",
+        "original_label": "positive",
+        "contrast": "I was pleasantly surprised by the trailer, but the movie itself was a letdown.",
+        "contrast_label": "negative"
+    },
+    {
+        "original": "It's a must-watch.",
+        "original_label": "positive",
+        "contrast": "It's a must-watch if you enjoy watching paint dry.",
+        "contrast_label": "negative"
+    },
+    {
+        "original": "I have no complaints.",
+        "original_label": "positive",
+        "contrast": "I have no complaints about the acting, but everything else was bad.",
+        "contrast_label": "negative"
+    },
+    {
+        "original": "The ending was predictable.",
+        "original_label": "negative",
+        "contrast": "The ending was predictable, but the journey there was incredible.",
+        "contrast_label": "positive"
+    },
+    {
+        "original": "I fell asleep.",
+        "original_label": "negative",
+        "contrast": "I fell asleep because it was so relaxing and peaceful, which is what I wanted.",
+        "contrast_label": "positive"
+    }
+]
