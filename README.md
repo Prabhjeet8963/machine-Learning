@@ -20,3 +20,6 @@ This directory compiles predictive engineering pipelines, visual data mining eva
 
 5. [Studies/notes-and-slides/](./Studies/notes-and-slides/)
    Academic notes, handwritten DSA material, and presentation slides related to computer science fundamentals, computer organization, architecture, memory systems, CPU design, and instruction cycles. :contentReference[oaicite:2]{index=2}
+
+6. [evaluating_NLP_Models_via_Contrast_Sets/](./evaluating_NLP_Models_via_Contrast_Sets/)
+   Research-focused NLP evaluation project exploring contrast set methodologies for testing robustness, behavioral consistency, and performance analysis of Natural Language Processing models.
